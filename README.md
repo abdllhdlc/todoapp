@@ -5,7 +5,7 @@
 
 An elegant, lightweight Android app to capture tasks, set timely reminders, and stay organized with a clean, modern UI. The APK is already available for download.
 
-> 📥 Ready to try it? Get the latest build from the Releases page below.
+> Ready to try it? 🚀 [Get the latest build 📥](https://github.com/abdllhdlc/todoapp/releases/download/v1.0-release/app-release.apk)
 
 ---
 
@@ -100,7 +100,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 ---
 
-## ToDoList — Android için Akıllı Görev Yöneticisi 🎯
+## TR - ToDoList — Android için Akıllı Görev Yöneticisi 🎯
 
 Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırlatmalar alın ve modern arayüzle düzenli kalın. APK indirilmeye hazırdır.
 
