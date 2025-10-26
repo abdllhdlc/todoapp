@@ -46,7 +46,7 @@ An elegant, lightweight Android app to capture tasks, set timely reminders, and 
 **Option A — Download APK (recommended):**
 - Download the latest APK from the project's Releases:
   - [Latest Release](/../../releases/latest)
-  - If available, grab the APK asset (for example: `app-release.apk`).
+  - Download and install the app.
 
 **Option B — Build from source:**
 1. Clone this repository and open it in Android Studio (Giraffe+).
@@ -105,7 +105,7 @@ This project is licensed under the **MIT License**. See the [LICENSE](LICENSE) f
 
 Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırlatmalar alın ve modern arayüzle düzenli kalın. APK indirilmeye hazırdır.
 
-> 📥 Hemen denemek için aşağıdaki Releases sayfasından en güncel sürümü indirin.
+> Denemeye hazır mısın? 🚀 [En son sürümü indir 📥](https://github.com/abdllhdlc/todoapp/releases/tag/v1.0-release)
 
 ---
 
@@ -146,7 +146,7 @@ Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırla
 **Seçenek A — APK indir (önerilir):**
 - Projenin Releases bölümünden en güncel APK’yı indirin:
   - [En Son Sürüm](/../../releases/latest)
-  - Varsa APK dosyasını indirin (ör. `app-release.apk`).
+  - APK dosyasını indirin ve kurun.
 
 **Seçenek B — Kaynaktan derle:**
 1. Bu depoyu klonlayın ve Android Studio (Giraffe+) ile açın.
