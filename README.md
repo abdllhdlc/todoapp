@@ -123,7 +123,7 @@ Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırla
 <table>
   <tr>
     <td><a href="screenshots/Homepage.jpg" target="_blank"><img src="screenshots/Homepage.jpg" width="220" alt="Ana Ekran" /></a></td>
-    <td><a href="screenshots/Add_Reminder.jpg"><img src="screenshots/Add_Reminder.jpg" width="220" alt="Hatırlatma Ekle" /></a></td>
+    <td><a href="screenshots/Add_Reminder.jpg" target="_blank"><img src="screenshots/Add_Reminder.jpg" width="220" alt="Hatırlatma Ekle" /></a></td>
     <td><a href="screenshots/Sorting_Options_Newest.jpg"><img src="screenshots/Sorting_Options_Newest.jpg" width="220" alt="Sıralama Seçenekleri" /></a></td>
     <td><a href="screenshots/Theme_Selection.jpg"><img src="screenshots/Theme_Selection.jpg" width="220" alt="Tema Seçimi" /></a></td>
   </tr>
