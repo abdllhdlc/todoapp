@@ -5,7 +5,7 @@
 
 An elegant, lightweight Android app to capture tasks, set timely reminders, and stay organized with a clean, modern UI. The APK is already available for download.
 
-> Ready to try it? 🚀 [Get the latest build 📥](https://github.com/abdllhdlc/todoapp/releases/download/v1.0-release/app-release.apk)
+> Ready to try it? 🚀 [Get the latest build 📥](https://github.com/abdllhdlc/todoapp/releases/tag/v1.0-release)
 
 ---
 
