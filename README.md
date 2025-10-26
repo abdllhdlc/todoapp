@@ -34,6 +34,7 @@ An elegant, lightweight Android app to capture tasks, set timely reminders, and 
     <td><a href="screenshots/Task_Detail.jpg"><img src="screenshots/Task_Detail.jpg" width="220" alt="Task Detail" /></a></td>
     <td><a href="screenshots/Task_Detail_File_Selected.jpg"><img src="screenshots/Task_Detail_File_Selected.jpg" width="220" alt="Task Detail File Selected" /></a></td>
     <td></td>
+    <td><a href="screenshots/Delete.jpg"><img src="screenshots/Delete.jpg" width="220" alt="Home" /></a></td>
   </tr>
 </table>
 </div>
@@ -132,6 +133,7 @@ Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırla
     <td><a href="screenshots/Task_Detail.jpg"><img src="screenshots/Task_Detail.jpg" width="220" alt="Görev Detayı" /></a></td>
     <td><a href="screenshots/Task_Detail_File_Selected.jpg"><img src="screenshots/Task_Detail_File_Selected.jpg" width="220" alt="Görev Detayı Dosya" /></a></td>
     <td></td>
+    <td><a href="screenshots/Delete.jpg"><img src="screenshots/Delete.jpg" width="220" alt="Home" /></a></td>
   </tr>
 </table>
 </div>
