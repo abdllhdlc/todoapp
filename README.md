@@ -21,13 +21,22 @@ An elegant, lightweight Android app to capture tasks, set timely reminders, and 
 
 ### 🖼️ Screenshots
 
-![Home](screenshots/Homepage.jpg)
-![Reminder](screenshots/Add_Reminder.jpg)
-![Sorting](screenshots/Sorting_Options_Newest.jpg)
-![Theme](screenshots/Theme_Selection.jpg)
-![ReminderList](screenshots/Existing_Reminders_List.jpg)
-![Task Details](screenshots/Task_Detail.jpg)
-![File](screenshots/Task_Detail_File_Selected.jpg)
+<div align="center">
+<table>
+  <tr>
+    <td><a href="screenshots/Homepage.jpg"><img src="screenshots/Homepage.jpg" width="220" alt="Home" /></a></td>
+    <td><a href="screenshots/Add_Reminder.jpg"><img src="screenshots/Add_Reminder.jpg" width="220" alt="Add Reminder" /></a></td>
+    <td><a href="screenshots/Sorting_Options_Newest.jpg"><img src="screenshots/Sorting_Options_Newest.jpg" width="220" alt="Sorting Options" /></a></td>
+    <td><a href="screenshots/Theme_Selection.jpg"><img src="screenshots/Theme_Selection.jpg" width="220" alt="Theme Selection" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="screenshots/Existing_Reminders_List.jpg"><img src="screenshots/Existing_Reminders_List.jpg" width="220" alt="Existing Reminders" /></a></td>
+    <td><a href="screenshots/Task_Detail.jpg"><img src="screenshots/Task_Detail.jpg" width="220" alt="Task Detail" /></a></td>
+    <td><a href="screenshots/Task_Detail_File_Selected.jpg"><img src="screenshots/Task_Detail_File_Selected.jpg" width="220" alt="Task Detail File Selected" /></a></td>
+    <td></td>
+  </tr>
+</table>
+</div>
 
 ---
 
@@ -110,11 +119,24 @@ Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırla
 ---
 
 ### 🖼️ Ekran Görüntüleri
-Proje kök dizininde `screenshots/` klasörü oluşturup görsellerinizi ekleyin ve aşağıdaki yolları güncelleyin.
+Proje kök dizininde `screenshots/` klasörü oluşturup görsellerinizi ekleyin ve aşağıdaki 4 sütunlu düzeni kullanın.
 
-![Ana Ekran](screenshots/home.png)
-![Görev Detayı](screenshots/details.png)
-![Hatırlatma](screenshots/reminder.png)
+<div align="center">
+<table>
+  <tr>
+    <td><a href="screenshots/Homepage.jpg"><img src="screenshots/Homepage.jpg" width="220" alt="Ana Ekran" /></a></td>
+    <td><a href="screenshots/Add_Reminder.jpg"><img src="screenshots/Add_Reminder.jpg" width="220" alt="Hatırlatma Ekle" /></a></td>
+    <td><a href="screenshots/Sorting_Options_Newest.jpg"><img src="screenshots/Sorting_Options_Newest.jpg" width="220" alt="Sıralama Seçenekleri" /></a></td>
+    <td><a href="screenshots/Theme_Selection.jpg"><img src="screenshots/Theme_Selection.jpg" width="220" alt="Tema Seçimi" /></a></td>
+  </tr>
+  <tr>
+    <td><a href="screenshots/Existing_Reminders_List.jpg"><img src="screenshots/Existing_Reminders_List.jpg" width="220" alt="Mevcut Hatırlatmalar" /></a></td>
+    <td><a href="screenshots/Task_Detail.jpg"><img src="screenshots/Task_Detail.jpg" width="220" alt="Görev Detayı" /></a></td>
+    <td><a href="screenshots/Task_Detail_File_Selected.jpg"><img src="screenshots/Task_Detail_File_Selected.jpg" width="220" alt="Görev Detayı Dosya" /></a></td>
+    <td></td>
+  </tr>
+</table>
+</div>
 
 Not: Klasörü boş halde sürüme eklemek isterseniz `screenshots/.gitkeep` gibi boş bir dosya ekleyin.
 
