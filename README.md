@@ -1,32 +1,5 @@
-### Hızlı Notlar / Quick Notes
 
-Türkçe:
-- `screenshots` klasörü oluşturma ve boş klasörü sürüme dahil etme:
-```powershell
-mkdir .\screenshots
-New-Item -ItemType File .\screenshots\.gitkeep | Out-Null
-```
-- Sadece `README.md` dosyasını push etme:
-```powershell
-git add README.md
-git commit -m "README güncellemesi"
-git push origin main
-```
 
-English:
-- Create a `screenshots` folder and keep it in VCS when empty:
-```powershell
-mkdir .\screenshots
-New-Item -ItemType File .\screenshots\.gitkeep | Out-Null
-```
-- Push only `README.md`:
-```powershell
-git add README.md
-git commit -m "Update README"
-git push origin main
-```
-
----
 
 ## ToDoList — Smart Task Manager for Android 🎯
 
