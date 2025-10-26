@@ -1,7 +1,7 @@
 
 
 
-## ToDoList — Smart Task Manager for Android 🎯
+## ENG - ToDoList — Smart Task Manager for Android 🎯
 
 An elegant, lightweight Android app to capture tasks, set timely reminders, and stay organized with a clean, modern UI. The APK is already available for download.
 
@@ -119,8 +119,6 @@ Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırla
 ---
 
 ### 🖼️ Ekran Görüntüleri
-Proje kök dizininde `screenshots/` klasörü oluşturup görsellerinizi ekleyin ve aşağıdaki 4 sütunlu düzeni kullanın.
-
 <div align="center">
 <table>
   <tr>
@@ -138,7 +136,6 @@ Proje kök dizininde `screenshots/` klasörü oluşturup görsellerinizi ekleyin
 </table>
 </div>
 
-Not: Klasörü boş halde sürüme eklemek isterseniz `screenshots/.gitkeep` gibi boş bir dosya ekleyin.
 
 ---
 
