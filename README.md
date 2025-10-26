@@ -124,14 +124,14 @@ Zarif ve hafif bir Android uygulaması: görevleri kaydedin, zamanında hatırla
   <tr>
     <td><a href="screenshots/Homepage.jpg" target="_blank"><img src="screenshots/Homepage.jpg" width="220" alt="Ana Ekran" /></a></td>
     <td><a href="screenshots/Add_Reminder.jpg" target="_blank"><img src="screenshots/Add_Reminder.jpg" width="220" alt="Hatırlatma Ekle" /></a></td>
-    <td><a href="screenshots/Sorting_Options_Newest.jpg"><img src="screenshots/Sorting_Options_Newest.jpg" width="220" alt="Sıralama Seçenekleri" /></a></td>
-    <td><a href="screenshots/Theme_Selection.jpg"><img src="screenshots/Theme_Selection.jpg" width="220" alt="Tema Seçimi" /></a></td>
+    <td><a href="screenshots/Sorting_Options_Newest.jpg" target="_blank"><img src="screenshots/Sorting_Options_Newest.jpg" width="220" alt="Sıralama Seçenekleri" /></a></td>
+    <td><a href="screenshots/Theme_Selection.jpg" target="_blank"><img src="screenshots/Theme_Selection.jpg" width="220" alt="Tema Seçimi" /></a></td>
   </tr>
   <tr>
-    <td><a href="screenshots/Existing_Reminders_List.jpg"><img src="screenshots/Existing_Reminders_List.jpg" width="220" alt="Mevcut Hatırlatmalar" /></a></td>
-    <td><a href="screenshots/Task_Detail.jpg"><img src="screenshots/Task_Detail.jpg" width="220" alt="Görev Detayı" /></a></td>
-    <td><a href="screenshots/Task_Detail_File_Selected.jpg"><img src="screenshots/Task_Detail_File_Selected.jpg" width="220" alt="Görev Detayı Dosya" /></a></td>
-    <td><a href="screenshots/Delete.jpg"><img src="screenshots/Delete.jpg" width="220" alt="Delete" /></a></td>
+    <td><a href="screenshots/Existing_Reminders_List.jpg" target="_blank"><img src="screenshots/Existing_Reminders_List.jpg" width="220" alt="Mevcut Hatırlatmalar" /></a></td>
+    <td><a href="screenshots/Task_Detail.jpg" target="_blank"><img src="screenshots/Task_Detail.jpg" width="220" alt="Görev Detayı" /></a></td>
+    <td><a href="screenshots/Task_Detail_File_Selected.jpg" target="_blank"><img src="screenshots/Task_Detail_File_Selected.jpg" width="220" alt="Görev Detayı Dosya" /></a></td>
+    <td><a href="screenshots/Delete.jpg" target="_blank"><img src="screenshots/Delete.jpg" width="220" alt="Delete" /></a></td>
   </tr>
 </table>
 </div>
