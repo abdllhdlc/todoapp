@@ -22,7 +22,7 @@ An elegant, lightweight Android app to capture tasks, set timely reminders, and 
 ### 🖼️ Screenshots
 Add your images to a `screenshots/` folder in the project root and update the paths below.
 
-![Home](screenshots/home.png)
+![Home](screenshots/Add_Reminder.jpg)
 ![Task Details](screenshots/details.png)
 ![Reminder](screenshots/reminder.png)
 
